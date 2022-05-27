@@ -1,1 +1,1 @@
-# Solar-pwoer
+# solar_power
